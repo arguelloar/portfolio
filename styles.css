@@ -1,0 +1,28 @@
+.aboutme{
+    background-color: aqua;
+    width:100px;
+    height:100px;
+    margin: 15px 20px 35px 54px;
+    padding: 15px 20px 30px 45px;
+    border: 15px solid rgb(0, 0, 0);
+}
+
+.projects{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 15px 20px 35px 54px;
+    padding: 15px 20px 30px 45px;
+    border: 15px solid rgb(0, 0, 0);
+
+}
+
+.contact{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 15px 20px 35px 54px;
+    padding: 15px 20px 30px 45px;
+    border: 15px solid rgb(0, 0, 0);
+
+}
